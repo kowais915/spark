@@ -1,8 +1,10 @@
 
+import Form from './components/Form';
+
 const LoginView = () => {
     return ( 
         <>
-            This is the login page
+            <Form/>
         </>
      );
 }
